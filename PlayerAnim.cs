@@ -34,4 +34,19 @@ public class PlayerAnim : MonoBehaviour
 
 
     }
+
+    #region Movement
+    
+    void Move()
+
+
+
+    #endregion
+
+
+
+
+
+
+
 }
